@@ -1,7 +1,3 @@
-Of course\! Here is a comprehensive README file for your GitHub repository, explaining both Python scripts.
-
------
-
 # Python AI Assistants: Productivity and RAG
 
 This repository contains two command-line AI assistant applications built in Python, showcasing different AI paradigms.
